@@ -5,7 +5,6 @@ lst = inp.split()
 for word in lst:
     counts[word]=counts.get(word,0)+1
 
-
 bigword = None
 bigcount = None
 
